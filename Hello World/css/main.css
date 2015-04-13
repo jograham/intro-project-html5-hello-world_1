@@ -1,0 +1,17 @@
+/* ---- Typography ---- */
+
+body {
+    margin:0;
+    padding:0 0 0 20px;
+}
+
+p {
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:30px;
+    font-weight:300;
+    line-height:1em;
+}
+
+.red {
+    color:#F00;
+}
